@@ -1,6 +1,5 @@
 #Rithvika Kathroju
-#Mrs.Mansi - ICS 2O1 - 12/9/2020
-#Unit 2: Introduction to Programming with Python - Final Assignment
+#12/9/2020
 
 """
 Intializing variables for each of the combos to store the the individual prices. I created the combo prices to provide
