@@ -1,5 +1,6 @@
-#Rithvika Kathroju
-#12/9/2020
+# Rithvika Kathroju
+# 12/9/2020
+# Introduction to Programming with Python
 
 """
 Intializing variables for each of the combos to store the the individual prices. I created the combo prices to provide
